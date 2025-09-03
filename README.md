@@ -45,9 +45,16 @@ A lightweight CLI to **automate developer workflows** with pragmatic AI. Designe
 
 ---
 
-## 🛠️ Toolbox (concise)
+## TECHNICAL SKILLS MATRIX
 
-LLMOps/RAG · LangChain/LlamaIndex · Qdrant/pgvector · Langfuse/Helicone · vLLM/TGI · Docker · Python (POC/automation) · SQL · Power Platform/SAP Build (adjacent)
+| **Category** | **Technologies** | **Level** |
+|-------------|------------------|----------|
+| **AI/ML** | LLMs, Prompt Design, MCP | Hands-on |
+| **Development** | Python, Docker, CLI Tools | Operational |
+| **LLMOps** | RAGAS, Langfuse/Helicone | Learning |
+| **Data** | SQL/NoSQL, Vector DBs | Foundational |
+| **Cloud** | Azure (certified), AWS, GCP | Foundations |
+| **Enterprise** | Power Platform, Solution Architecture | Experienced |
 
 ---
 
