@@ -2,11 +2,24 @@
 
 I build **reliable AI solutions** with **RAG** and **LLMOps** practices: measurable quality (RAGAS), **observability** (Langfuse/Helicone) and **cost/latency control** (serving & caching). Remote-first, async-friendly.
 
-* **What I deliver**
+---
 
-  * RAG you can **measure** (faithfulness/precision, P50/P95, cost per 1k tokens)
-  * **Tracing/telemetry** and guardrails (PII masking, audit logs)
-  * **Performance/cost** tuning (vLLM/TGI, quantization, reranking, caching)
+## CURRENT CAPABILITIES
+
+• **LLM Integration** — Hands-on experience with prompt design, context strategies, basic RAG implementation  
+• **Development Tooling** — Docker environments, MCP server configuration, CLI development (NexoCLI)  
+• **Business-Technical Bridge** — Translating stakeholder requirements into technical architectures and delivery plans  
+
+---
+
+## CORE COMPETENCIES
+
+**AI/ML (Hands-on):** LLMs, prompt design, context strategies, embeddings, MCP server configuration  
+**Development (Operational):** Docker, Python (automation/POC), Git/GitHub, CLI development  
+**LLMOps (Learning):** RAGAS evaluations, Langfuse/Helicone traces, performance optimization concepts  
+**Data & Infrastructure:** SQL/NoSQL basics, vector databases (foundational), hybrid retrieval concepts  
+**Cloud Platforms:** Azure (certified), AWS/GCP foundations  
+**Enterprise Bridge:** Power Platform, SAP Build Apps, solution architecture, stakeholder communication  
 
 ---
 
