@@ -23,16 +23,25 @@ I build **reliable AI solutions** with **RAG** and **LLMOps** practices: measura
 
 ---
 
-## 🚀 Featured — NexoCLI
+**🚀 Featured — NexoCLI**
 
-A lightweight CLI to **automate developer workflows** with pragmatic AI. Designed for reproducibility, short feedback loops, and minimal friction.
+A lightweight CLI to automate developer workflows with pragmatic AI. Designed for reproducibility, short feedback loops, and minimal friction.
 
-* **Why it matters:** faster scaffolding, consistent outputs, and traceable runs
-* **What it shows:** engineering for **reality** — metrics, logs, and limits
-* **Links:**
+- **Why it matters**: faster scaffolding, consistent outputs, and traceable runs
+- **What it shows**: engineering for reality — metrics, logs, and limits
+- **Links**:
+  - Repo · NexoCLI_BaseGemini → [https://github.com/nsalvacao/NexoCLI_BaseGemini](https://github.com/nsalvacao/NexoCLI_BaseGemini)
+  - Docs/Demo page → [https://nsalvacao.github.io/NexoCLI_BaseGemini/](https://nsalvacao.github.io/NexoCLI_BaseGemini/)
 
-  * Repo · **NexoCLI\_BaseGemini** → [https://github.com/nsalvacao/NexoCLI\_BaseGemini](https://github.com/nsalvacao/NexoCLI_BaseGemini)
-  * Docs/Demo page → [https://nsalvacao.github.io/NexoCLI\_BaseGemini/](https://nsalvacao.github.io/NexoCLI_BaseGemini/)
+**🤖 Featured — Nexo-Agents**
+
+A comprehensive collection of 44 production-ready AI agent commands for Google AI CLI integration. Specialized agents for engineering, marketing, design, and operations workflows with automatic context discovery.
+
+- **Why it matters**: role-specific expertise, structured automation, and native CLI integration
+- **What it shows**: production-grade command design — dynamic parsing, shell integration, and composable workflows  
+- **Links**:
+  - Repo · Nexo-Agents → [https://github.com/nsalvacao/Nexo-Agents](https://github.com/nsalvacao/Nexo-Agents)
+  - Docs/Demo page → [https://nsalvacao.github.io/Nexo-Agents/](https://nsalvacao.github.io/Nexo-Agents/)
 
 ---
 
