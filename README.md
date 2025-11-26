@@ -25,12 +25,27 @@ My focus is on **RAG pipelines**, **multi-provider orchestration**, and **GDPR-c
 ## FEATURED PROJECTS
 
 **🚀 NexoCLI**  
-Lightweight CLI to automate developer workflows with pragmatic AI. Designed for reproducibility, short feedback loops, and minimal friction.
+Lightweight AI-enabled CLI to automate developer workflows (scaffolding, context packaging, prompt helpers). Designed for reproducibility, short feedback loops and minimal friction in local or remote environments.  
 - **Links**: [Repo](https://github.com/nsalvacao/NexoCLI_BaseGemini) · [Docs](https://nsalvacao.github.io/NexoCLI_BaseGemini/)
 
 **🤖 Nexo-Agents**  
-Collection of 44 production-ready AI agent commands for Google AI CLI integration. Role-specific expertise with automatic context discovery.
+Library of 44 production-ready AI agent commands for the official Google AI CLI (`gemini-cli`). Each command encapsulates a focused workflow (discovery, architecture, FinOps, security, QA) with shell-context gathering and structured output for automation.  
 - **Links**: [Repo](https://github.com/nsalvacao/Nexo-Agents) · [Docs](https://nsalvacao.github.io/Nexo-Agents/)
+
+**🧠 LLM Prompt Optimizer**  
+Single-page React app that rewrites draft prompts into provider-specific instructions for Gemini, Claude, ChatGPT and Llama. Uses template-based drafting, automatic variable extraction (`{{placeholder}}` → inline inputs), local history and per-provider settings to help LLM engineers and power users get consistent, high-quality prompts.  
+- **Links**: [Repo](https://github.com/nsalvacao/LLM-Prompt-Optimizer) · [Landing Page](https://nsalvacao.github.io/llm-prompt-optimizer/)
+
+**📊 Commercial-Kit-Generator**  
+AI-powered web app that transforms technical documentation into 9 strategic sales assets (one-pager, pitch deck, ROI/TCO sheet, FAQ, datasheet, blueprint, playbook, battlecard and outbound email). Built with React + TypeScript on top of Claude Sonnet / Artifacts, using a two-stage pipeline (context extraction → asset generation).  
+- **Links**: [Repo](https://github.com/nsalvacao/Commercial-Kit-Generator) · [Try it on Claude](https://claude.ai/public/artifacts/b19fd567-a2ea-4ed0-81f0-5fd25708d342)
+
+### Other public AI projects
+
+**Nexo Incentives Navigator (PT/EU)**  
+Custom GPT assistant for Portuguese/EU business incentives (PRR, PT2030, tax credits, employment schemes). Combines a curated knowledge base with live checks against official sources to give founders and SMEs realistic options and next steps.  
+- **Link**:  [Repo](https://github.com/nsalvacao/Navegador-de-Incentivos-Portugal) · [Try it on ChatGPT](https://chatgpt.com/g/g-6921c292457c81919c8b0f3e78969072-navegador-de-incentivos-portugal)
+
 
 ---
 
